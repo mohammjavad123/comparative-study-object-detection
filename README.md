@@ -42,9 +42,10 @@ This repository contains a comprehensive study and implementation of fine-tuning
 
 We provide fine-tuned weights for all major model architectures:
 
-- 🔗 [YOLOv8 (All variants)](https://example.com/yolo-models)
-- 🔗 [DETR (R50 and R101)](https://example.com/detr-models)
-- 🔗 [Faster R-CNN](https://example.com/fasterrcnn-models)
+- 🔗 [YOLOv8 (All variants)](https://www.dropbox.com/scl/fi/jpbedyfmg4w5hipksw15o/8mwithoutbest.pt?rlkey=tdpx00ije3p2z1vxi57i306oj&st=myvk0183&dl=0)
+- 🔗 [DETR (R50 and R101)](https://www.dropbox.com/scl/fi/jpbedyfmg4w5hipksw15o/8mwithoutbest.pt?rlkey=tdpx00ije3p2z1vxi57i306oj&st=myvk0183&dl=0)
+- 🔗 [Faster R-CNN](https://www.dropbox.com/scl/fi/jpbedyfmg4w5hipksw15o/8mwithoutbest.pt?rlkey=tdpx00ije3p2z1vxi57i306oj&st=myvk0183&dl=0)
+
 
 > Replace these links with your actual model download URLs.
 
@@ -64,7 +65,7 @@ For full technical details, see the PDF report in [`report.pdf`](./report.pdf), 
 ## 🧑‍💻 Author
 
 **MohammadKazem Rajabi**  
-✉️ m.rajabi@tudelft.nl
+✉️ mohammadkazem.rajabi@studenti.unipd.it
 
 ---
 
